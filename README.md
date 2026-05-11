@@ -1,8 +1,14 @@
 # Canned-Bread's VOCALOIDDBTOOL Swiss Army Knife
 
-# UPDATE ON THE TOOL!
+# UPDATE UPDATE!
 
-Since other tools are better and more useful, I decided to archive this tool since I'm not working in the vocal synth space anymore... Sorry...
+### I'm focusing on a new project, but refining the SAK is on the horizon!!!
+
+### I (canned bread/ luciozundiezz) am hoping to fix some issues and build executables near...... July?? Don't quote me on that.
+
+# Issues regarding Gennon2DB!!!
+
+## the version I have in this tool requires your oto to be in *PHONEMES ONLY!!* I will fix this in the future, but for now I can't
 
 Canned-Bread's VOCALOIDDBTOOL Swiss Army Knife, which allows you to do some pretty cool things for HOMEBREW VOCALOID development!
 
